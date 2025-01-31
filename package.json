@@ -56,6 +56,9 @@
     "ws": "^8.18.0",
     "date-and-time": "^3.6.0"
   },
+  "overrides": {
+    "eufy-security-client": "file:/src/eufy-security-client/eufy-security-client-3.1.1.tgz"
+  },
   "devDependencies": {
     "@types/node": "^20.16.10",
     "@types/node-rsa": "^1.1.4",
